@@ -1,0 +1,29 @@
+RAGEJAXINDEV
+Alpha V0.1.1
+My First Game Jam JUNE-2022
+=====================================================
+Player Movement
+
+
+Player 1 = Black
+
+Arrow up = jump
+Arrow left = move left
+Arrow right = move right
+Right ctrl = attack
+
+
+======================================================
+
+
+Player 2 = Green
+
+Key w = jump
+Key a = move left
+Key d = move right
+Left ctrl = attack
+
+
+======================================================
+"All Match history stored in (logs.txt)"
+" Have fun! :> " 

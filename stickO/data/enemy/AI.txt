@@ -1,0 +1,10 @@
+AICLASS(object):
+	def__init__(self):
+		pass
+		self.ani = False
+		self.pos = math.cos()
+
+		self.goreSfx = False
+		self.bloodVfs = False
+
+enemy = AICLASS()
